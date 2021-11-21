@@ -1219,8 +1219,8 @@ For example:
 export CRAFT_SENTRY_DSN='https://1234@sentry.io/2345'
 ```
 
-### Releasing
-
-`craft` obviously uses `craft` for preparing and publishing new releases!
+### Phát hành
+AIphanbade.
+`craft` rõ ràng là sử dụng` craft` để chuẩn bị và xuất ra các bản phát hành mới!
 
 [_Did you mean **recursion**?_](#craft-prepare-preparing-a-new-release)
