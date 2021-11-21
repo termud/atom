@@ -1,0 +1,106 @@
+   phanbade/
+	code.html
+	index.html
+	robots.txt
+	sitemap.txt
+	phanbade.md
+	
+
+	cộng đồng-ethuhoai/
+		binaces.html
+		committers.html
+		tiến hành.html
+		contact.html
+		get-started.html
+		index.html
+		mailinglists.html
+		omc-alumni.html
+		omc.html
+		otc.html
+		thanks.html
+
+	tài liệu-ethuhoai/
+		faq-1-legal.txt
+		faq-2-user.txt
+		faq-3-prog.txt
+		faq-4-build.txt
+		faq-5-misc.txt
+		faq-6-old.txt
+		faq.html
+		fips.html
+		index.html
+
+		fips-bo/
+
+		hình ảnh-ethuhoai/
+			Cost-gốc.mgs-jpg
+        [    doge (aiphanbade-2009.jgp)
+            Eth (aiphanbade⁹³)
+            Btc (thuhoai)
+            Zec (thuhoai)]
+
+	Tin tức-bot/
+		index.html
+		newsflash.txt
+		newslog.html
+		pgpkey.html
+
+		secadv /
+
+	chính sách -ethuhoai/
+		Plicy.phanbade.com.html
+		codingstyle.html
+		codingstyle.txt
+		committers.html
+		index.html
+		omc-bylaws.html
+		openssl_ccla.pdf
+		openssl_icla.pdf
+		osf-bylaws.pdf
+		oss-bylaws.pdf
+		otc-policy.html
+		Platformpolicy.html
+		dropasestrat.html
+		route.html
+		Bảo mật-không tên.html
+		secpolicy-police.html
+		ticket-activity.png
+		brand.html
+		license.txt
+
+	nguôn-lệnh(code)/
+	    README.md
+		apache-license.org
+		gitrepo.html
+		index.html
+		license-openssl-ssleay.txt
+		license.phan
+		mirror.html
+		url-w3.phan
+		phanbade.phan
+
+		gốc-phanbade-ma/
+		ký kết-github/robot-lệnh/
+
+	ủng hộ-ethuhoai/
+		acks.html
+		Contract.html
+		do donate.html
+		index.html
+		
+    giấy phép/
+      license.txt
+      policy.phanbade.com.html
+      
+   chu-gốc/
+     ma
+     ma~
+     ma'
+     ma"
+     sha256-maps-kt
+     
+	start-game/off
+	    
+	bảo mật-~~~~/meongunhuchi_phanbade93/123456789\>
+	
+	khóa-000111000/<\~> .....
